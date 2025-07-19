@@ -7,4 +7,4 @@ this project demonstrates a comperhensive data warehousing and analytics solutio
 Data Architecture
 The data architecture for this project follows Medallion Architecture Bronze, Silver, and Gold layers:
 
-![Data Architecture](https://github.com/radwanagy/sql-data-warehouse-project/blob/main/data_architecture%20(1).png)
+![Data Architecture](https://github.com/radwanagy/sql-data-warehouse-project/blob/main/images/data_architecture%20(1).png)
